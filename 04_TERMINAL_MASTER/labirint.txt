@@ -1,0 +1,10 @@
+1. [cd Desktop] — Перешел на Рабочий стол.
+2. [mkdir ROOT_LABYRINTH] — Создал корневую папку "ROOT_LABYRINTH".
+3. [cd ROOT_LABYRINTH] — Вошел в созданную корневую папку.
+4. [mkdir SECTOR_A SECTOR_B] — Создал внутри две папки: "SECTOR_A" и "SECTOR_B".
+5. [echo ИНФОРМАЦИЯ > SECTOR_A/secret.txt] — Создал файл "secret.txt" в папке "SECTOR_A" 
+6. [echo ИНФОРМАЦИЯ > SECTOR_B/history_log.txt] — Создал файл "history_log.txt" в папке "SECTOR_B" 
+7. [cd SECTOR_A] — Перешел в папку "SECTOR_A" для выполнения финального задания.
+8. [rm secret.txt] — Удалил файл "secret.txt" из папки "SECTOR_A" 
+фио
+Егрищин Георгий- Иванов @ртем
